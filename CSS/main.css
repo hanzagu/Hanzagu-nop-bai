@@ -503,19 +503,19 @@ h1 {
 }
 
 .box:nth-child(1) {
-    background-image: url("/img/Port 1.jpg");
+    background-image: url(/img/Port-1.jpg);
 }
 
 .box:nth-child(2) {
-    background-image: url("/img/Port 2.jpg");
+    background-image: url(/img/Port-2.jpg);
 }
 
 .box:nth-child(3) {
-    background-image: url("/img/Port 3.jpg");
+    background-image: url(/img/Port-3.jpg);
 }
 
 .box:nth-child(4) {
-    background-image: url("/img/Port 4.jpg");
+    background-image: url(/img/Port-4.jpg);
 }
 
 
